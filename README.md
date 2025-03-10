@@ -11,7 +11,27 @@ Soy un apasionado desarrollador de software con un enfoque en la **gestión de s
 - **Desarrollo Full-Stack** 🌐
 
 ## 🌱 Actualmente Aprendiendo
-Estoy mejorando mis conocimientos en **conceptos avanzados de computación en la nube**, y cómo integrar estas prácticas para mejorar mis soluciones de software.
+Estoy mejorando mis conocimientos en **en la utilizacion de herramientas de desarollo**, y cómo integrar estas prácticas para mejorar mis soluciones de software.
+
+##  🌱 Proyecto actual en desarrollo
+**🚀 Desarrollo de una Aplicación Web para la Gestión de una Clínica Universitaria**
+
+Actualmente, estoy trabajando en un proyecto **full-stack** con 🅰 **Angular** y ☕ **Spring Boot**.  
+
+### 🌟 Funcionalidades principales:  
+- 🏥 Gestión de pacientes, citas y historiales médicos.  
+- 👨‍⚕️ Administración del personal médico y usuarios.  
+- 💊 Control de medicamentos y stock farmacéutico.  
+- 📊 Optimización de procesos internos para una mejor gestión clínica.  
+
+### 🎯 Objetivos del proyecto:  
+- 🔹 **Automatizar procesos clínicos:** Reducir tareas manuales para mejorar la eficiencia.  
+- 🔹 **Mejorar la accesibilidad:** Permitir el acceso a la información en tiempo real desde cualquier dispositivo.  
+- 🔹 **Seguridad de datos:** Garantizar la privacidad y confidencialidad de los registros médicos.  
+- 🔹 **Escalabilidad:** Diseñar una arquitectura que permita futuras mejoras y crecimiento del sistema.  
+
+🔗 **En desarrollo... ¡Más novedades pronto!**
+
 
 ## 💞️ Busco Colaborar En
 - Proyectos relacionados con **desarrollo full-stack** 🧑‍💻
